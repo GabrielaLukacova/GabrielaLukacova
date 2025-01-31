@@ -15,12 +15,12 @@ Welcome to my GitHub profile! 🚀
 
 ## 📊 GitHub stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielaLukacova&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielaLukacova&theme=tokyonight" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaLukacova&layout=compact&theme=tokyonight" width="48%"/>
 </div>
 
 ---
